@@ -1,0 +1,6 @@
+{
+  "name": "VitalPulse Smart Health",
+  "description": "High-fidelity health monitoring ecosystem with real-time cardiac metrics, emergency alerts, and seamless device synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
